@@ -9,8 +9,6 @@ Extract features such as volatility and volume deltas
 Discover a reliable mathematical equation that models their relationship
 
 Evaluate the robustness of the equation across various assets
-
-Submit the analysis in a clear, modular, and reproducible format
 ---------------------------------------------------------------------------------------------------
 
  Approach
